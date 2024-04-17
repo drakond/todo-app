@@ -6,7 +6,7 @@ import (
 	"github.com/drakond/todo-app"
 	"github.com/drakond/todo-app/pkg/handler"
 
-	//"github.com/drakond/todo-app/pkg/repository"
+	"github.com/drakond/todo-app/pkg/repository"
 	"github.com/drakond/todo-app/pkg/service"
 )
 
